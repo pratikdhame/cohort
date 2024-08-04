@@ -13,13 +13,14 @@
     margin: 0;
     border: 1px solid #333;
     border-radius: 4px;
+    color: #fff;
   }
 
   .nav__logo{
     width: 25px;
     height: 25px;
   }
-
+  
   .nav{
     display: flex;
     justify-content: space-between;
